@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sevs55
+- 👀 I’m interested in scripting
+- 🌱 I’m currently learning Python
